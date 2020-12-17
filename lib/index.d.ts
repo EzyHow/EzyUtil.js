@@ -1,3 +1,5 @@
-export default function multiplyNumbers(...numbers: number[]): number;
-export declare function concatStrings(...strings: string[]): string;
+import concatStrings from './utils/concatStrings';
+import addNumbers from './utils/addNumbers';
+import multiplyNumbers from './utils/mutiplyNumbers';
+export { concatStrings, addNumbers, multiplyNumbers };
 //# sourceMappingURL=index.d.ts.map
