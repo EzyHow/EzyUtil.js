@@ -1,6 +1,6 @@
 {
-  "name": "@ezyhow/ezyutil",
-  "version": "1.0.0",
+  "name": "ezyutil.js",
+  "version": "1.0.2",
   "description": "A javascript utility library. Collection of commonly used packages.",
   "main": "lib/index.js",
   "scripts": {
