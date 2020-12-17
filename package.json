@@ -1,0 +1,29 @@
+{
+  "name": "ezyutil",
+  "version": "1.0.0",
+  "description": "A javascript utility library. Collection of commonly used packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EzyHow/EzyUtil.js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "utility",
+    "library",
+    "JS",
+    "utility",
+    "package",
+    "EzyUtil",
+    "EzyUtil.js"
+  ],
+  "author": "Harinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EzyHow/EzyUtil.js/issues"
+  },
+  "homepage": "https://github.com/EzyHow/EzyUtil.js#readme"
+}
