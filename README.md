@@ -10,7 +10,7 @@ A JavaScript utility library.
 
 ## Usage
 
-       import {addNumbers, multiplyNumbers, concatStrings} from 'ezyutil.js';
+    import {addNumbers, multiplyNumbers, concatStrings} from 'ezyutil.js';
 
 **OR**
 
