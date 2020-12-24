@@ -1,6 +1,6 @@
 {
   "name": "ezyutil.js",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A javascript utility library. Collection of commonly used packages.",
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "EzyUtil.js"
   ],
   "author": "Harinder Singh",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/EzyHow/EzyUtil.js/issues"
   },

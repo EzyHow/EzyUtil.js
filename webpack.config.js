@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: './src/index.ts',
+    entry: './src/_merged.ts',
     mode: 'production',
     module: {
         rules: [
