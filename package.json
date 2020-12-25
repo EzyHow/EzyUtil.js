@@ -36,5 +36,9 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "exports": {
+    ".": "./lib/index.js",
+    "./array": "./lib/array.js"
+  }
 }

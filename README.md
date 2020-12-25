@@ -9,11 +9,11 @@ A JavaScript utility library.
 
 **Using NPM**
 
- `npm install ezyutil.js --save`
+    npm install ezyutil.js --save
 
 **Using Yarn**
 
-`yarn add ezyutil.js`
+    yarn add ezyutil.js
 
 ***
 
@@ -36,9 +36,11 @@ A JavaScript utility library.
 ## Another way
 
 You can also add this package directly to your HTML file in the following way:
-    ```
+
+    
     <script src="https://unpkg.com/ezyutil.js@1.0.5/ezyutil.js"></script>
-    ```
+    
+
 After this, you can use all functionality in following way:
 
     console.log(ezyutil.addNumbers(1,2,3,4,5........)); // add N numbers
