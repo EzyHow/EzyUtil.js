@@ -1,7 +1,11 @@
-import concatStrings from './utils/concatStrings';
 
-import addNumbers from './utils/addNumbers';
+import { addNumbers, mutiplyNumbers, concatStrings } from './common/index';
+// import { sortObjectArray } from './array/index';
 
-import multiplyNumbers from './utils/mutiplyNumbers';
+// export const common = { addNumbers, mutiplyNumbers, concatStrings };
+// export const array = { sortObjectArray };
 
-export { concatStrings, addNumbers, multiplyNumbers };
+/**
+ * @deprecated
+ */
+export { addNumbers, mutiplyNumbers, concatStrings };

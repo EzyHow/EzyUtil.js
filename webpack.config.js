@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-    entry: './src/_merged.ts',
+    entry: './src/index.ts',
     mode: 'production',
     module: {
         rules: [
@@ -14,10 +14,14 @@ module.exports = {
     },
     resolve: {
         extensions: ['.tsx', '.ts', '.js'],
+
+        alias: {
+            root: path.resolve('./src')
+        }
     },
     output: {
         filename: 'ezyutil.js',
-        path: path.resolve(__dirname),
+        path: path.resolve(__dirname + '/lib'),
         libraryTarget: 'var',
         library: 'ezyutil'
     },
